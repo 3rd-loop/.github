@@ -9,4 +9,7 @@ Human-in-the-loop AI platform that accelerates engineering workflows, preserves 
 Built for engineering teams requiring private AI deployments with NIST/GCC High compliance.
 
 ## Contact
-[Link Text](get-started@thirdloop.com)
+
+[Email Us](get-started@thirdloop.com)
+
+[Website](3rd-loop.com)
